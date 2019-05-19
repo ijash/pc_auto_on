@@ -2,6 +2,8 @@
 ## Description
 Turn on PC, server, computer automatically using arduino without the need of pressing the power switch (such as in ATX power supply). Once the power source is connected, arduino will immediately press the switch.
 
+It's best for computer without *"Turn on after AC power loss"* option in BIOS setting.
+
 
 ## Requirements
 ### Skill
