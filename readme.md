@@ -20,8 +20,8 @@ It's recommended if you have a basic knowledge of electronic & computer parts to
 | Step Down Converter   | 1         | (Optional) If you want to get the power source from the higher DC Voltage.                                                                  |
 
 ## Assembly
-
-Look at the schematic below.
+Upload the code using Arduino-IDE, then before powering on, assemble the hardware following the schematic below.
+then, connect power `5V +` power supply to `RAW` and `-` to `GND`
 
 
 ![Schematic](img/pcswitch.png)
