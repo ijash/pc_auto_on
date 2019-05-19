@@ -22,7 +22,11 @@ It's recommended if you have a basic knowledge of electronic & computer parts to
 ## Assembly
 
 Look at the schematic below.
+
+
 ![Schematic](img/pcswitch.png)
+
+
 
 to ensure the 4th pin gets an indicator of *computer powered on state*, connect the pin to the power source 5V or below such as *power LED pin* etc. 
 
