@@ -1,6 +1,6 @@
 # Arduino PC/Computer Auto On Switch
 ## Description
-Turn on PC, server, computer automatically using arduino without the need of pressing the power switch (such as in ATX power supply). Once the power source is connected, arduino will immidiately press the switch.
+Turn on PC, server, computer automatically using arduino without the need of pressing the power switch (such as in ATX power supply). Once the power source is connected, arduino will immediately press the switch.
 
 
 ## Requirements
